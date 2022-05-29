@@ -1,0 +1,77 @@
+/* font-family: 'Poppins', sans-serif; */
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+.mdb {
+  margin: 10px 5px;
+  font-weight: 400;
+}
+.bold {
+  font-weight: 500;
+}
+.light {
+  font-weight: 400;
+}
+span {
+  color: rgb(231, 231, 231);
+  font-weight: 600;
+}
+.re {
+  color: #DC3545;
+}
+.ye {
+  color: #FFBE00;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.fs-26 {
+  font-size: 26px;
+}
+.fs-18 {
+  font-size: 32px;
+}
+.big {
+  font-size: 32px;
+  font-weight: 500;
+}
+.big-hello {
+  font-size: 36px;
+}
+
+.hover-nav:hover {
+  color: #DC3545;
+  transition: 0.5s;
+}
+.box-cont {
+  background: #181d1cd2;
+}
+.contact-icon {
+  margin: 3% 0;
+  width: 48px;
+}
+.con {
+  margin: auto;
+  display: flex;
+  flex-flow: row;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <div class="col-6">
+</div>
+<div class="col-6 main-photo">
+  <img class="image-main" src="../image/yegan-rasm-removebg-preview.png">
+</div> */
